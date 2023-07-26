@@ -1,8 +1,8 @@
 # IOSAPP
 
-# Prework - *Name of App Here*
+# Prework - *No More*
 
-Submitted by: **Abisola Arowolaju **
+Submitted by: **Abisola Arowolaju**
 
 **NO More** is an app that... [Shows developer name, school they are enrolled in and thier aspired career. It also chnages background color once the submit button is clicked] 
 
