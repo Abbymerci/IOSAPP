@@ -40,7 +40,7 @@ Slack
    - Joinung huddle call with team members
    - Being able to delete messages
    - Being able to edit message
-###App Idea
+## App Idea
 What if there was an app that could seamlessly remind you to complete tasks based on your location? Imagine never forgetting to pick up groceries or items on your shopping list just because you passed by the store. My app idea aims to solve this problem by using geolocation to send timely reminders when you're near a specific location. Whether it's reminding you to buy groceries when you're near the supermarket or pick up your dry cleaning when you're close to the laundromat, this app will make sure you stay on top of your to-do list effortlessly. With user-friendly interfaces and customizable reminders, the app will help users be more productive and organized in their daily lives, ensuring they never miss an errand again.
 
 
