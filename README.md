@@ -4,7 +4,7 @@
 
 Submitted by: **Abisola Arowolaju **
 
-**Name of your app** is an app that... [Shows developer name, school they are enrolled in and thier aspired career. It also chnages background color once the submit button is clicked] 
+**NO More** is an app that... [Shows developer name, school they are enrolled in and thier aspired career. It also chnages background color once the submit button is clicked] 
 
 Time spent: **1 hour** hours spent in total
 
